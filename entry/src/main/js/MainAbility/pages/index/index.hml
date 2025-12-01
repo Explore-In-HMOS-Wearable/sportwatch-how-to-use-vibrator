@@ -1,0 +1,12 @@
+<div class="container">
+    <text class="title">
+        Vibrator
+    </text>
+
+    <input type="button" style="background-color: darkslateblue; height: 60px; width: 240px; margin-bottom: 8px; margin-top: 20px;" on:click="vibrateLong">
+        Long Vibration
+    </input>
+    <input type="button" style="background-color: darkslateblue; height: 60px; width: 240px; " on:click="vibrateShort">
+        Short Vibration
+    </input>
+</div>
