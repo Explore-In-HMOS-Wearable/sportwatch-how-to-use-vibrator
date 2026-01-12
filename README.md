@@ -21,9 +21,10 @@ This application provide you can learn how to use vibrator for Huawei Sport Watc
 - **Tools**: DevEco Studio Vers 5.1.0.842
 - **Libraries**: @system.vibrator
 
+# Directory Structure
 ```
  config.json
-│   
+│
 ├───js
 │   └───MainAbility
 │       │   app.js

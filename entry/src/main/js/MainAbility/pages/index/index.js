@@ -5,14 +5,14 @@ export default {
     },
     vibrateLong() {
         Vibrator.vibrate({
-            mode: "long"
+            mode: 'long'
         })
     },
 
     vibrateShort() {
         Vibrator.vibrate({
-            mode: "long"
+            mode: 'long'
         })
-    },
+    }
 
 };
